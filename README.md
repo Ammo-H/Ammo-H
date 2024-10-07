@@ -22,7 +22,6 @@
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-
  <div align="center">
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -30,14 +29,10 @@
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
-
-<img src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/icon.png" />
-#  🙋 Hello
-
+<div><img src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/icon.png" /></div>
 <table>
-<tr><td>
-
-
+<tr>
+ <td>
 <!-- About me 关于我 -->
 
 ### 🤺 About Me
@@ -50,11 +45,11 @@
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
-</td></tr>
+</td>
+</tr>
 
-<tr><td>
-
-
+<tr>
+ <td>
 🧰 常用的工具
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
@@ -91,6 +86,9 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/js.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/github.webp"></div>
+
+<!--gif -->
+<div style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/rocket.png"/>
