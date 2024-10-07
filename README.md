@@ -19,10 +19,6 @@
     <a href="https://www.youtube.com/@strongerbrother6779"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://123hjh321.github.io/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <a href="https://space.bilibili.com/651398654/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=123hjh321&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-
-
   </div>
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
@@ -94,10 +90,10 @@
 <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/vue.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/SerMs/SerMs/assets/images/github.webp"></div>
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/icon.png" />
 
 <img src="https://cdn.jsdelivr.net/gh/123hjh321/123hjh321/assets/images/rocket.png"/>
 
